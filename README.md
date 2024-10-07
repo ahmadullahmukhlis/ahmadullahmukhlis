@@ -3,7 +3,7 @@
 <h1 align="center">Asalamualikum(Hi)👋there, I am Ahmadullah Mukhlis</h1>
 
 <div align="left" style="display: flex; align-items: center; gap: 15px;">
-  <a href="https://user-badge.committers.top/afghanistan/MastooraTurkmen">
+  <a href="https://user-badge.committers.top/afghanistan/ahmadullahmukhlis">
     <img src="https://user-badge.committers.top/afghanistan/MastooraTurkmen.svg" alt="committers.top badge">
   </a>
   <img src="https://komarev.com/ghpvc/?username=mastooraturkmen&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
