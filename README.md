@@ -64,7 +64,7 @@ Welcome to my GitHub! 👩‍💻 I am a passionate full-stack web developer wit
 
 <div>
    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmadullahmukhlis&theme=monokai">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadullahmukhlis&layout=compact&show_icons=true&theme=codeSTACKr" alt="Top Languages used by Ahmad Ullah Mukhlis" />
+ 
 </div>
 
 
@@ -75,5 +75,6 @@ Welcome to my GitHub! 👩‍💻 I am a passionate full-stack web developer wit
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ahmadullahmukhlis&theme=dark" />
     <img src="https://streak-stats.demolab.com?user=ahmadullahmukhlis&theme=default"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadullahmukhlis&layout=compact&show_icons=true&theme=codeSTACKr" alt="Top Languages used by Ahmad Ullah Mukhlis" />
 </picture>
 
