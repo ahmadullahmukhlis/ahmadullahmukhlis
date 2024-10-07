@@ -44,7 +44,12 @@ Welcome to my GitHub! 👩‍💻 I am a passionate full-stack web developer wit
 <img align="left" alt="Tailwind"  width="35px"  src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Bootstrap" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/bootstrap/bootstrap-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="SQL" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/mysql/mysql-original-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="WordPress" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/wordpress/php.svg" style="padding-right:10px;" />
+<img align="left" alt="WordPress" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/wordpress/wordpress-original.svg" style="padding-right:10px;" />
+<img align="left" alt="PHP" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/php/php-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Nuxt.js" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/nuxtjs/nuxtjs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Vue.js" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/vuejs/vuejs-original.svg" style="padding-right:10px;" />
+
+
 
 <br/>
 <br/>
