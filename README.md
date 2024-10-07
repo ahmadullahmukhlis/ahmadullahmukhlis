@@ -7,9 +7,10 @@
     <img src="https://user-badge.committers.top/afghanistan_private/ahmadullahmukhlis.svg" alt="committers.top badge">
   </a>
   <img src="https://komarev.com/ghpvc/?username=ahmadullahmukhlis&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
-  <a href="https://www.linkedin.com/in/mastoora-turkmen/">
-    <img src="https://img.shields.io/badge/-@MastooraTurkmen-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/mastoora-turkmen/" alt="LinkedIn Badge">
-  </a>
+<a href="https://www.linkedin.com/in/ahmadullahmukhlis/" target="_blank">
+    <img src="https://img.shields.io/badge/-@ahmadullahmukhlis-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge">
+</a>
+
 </div>
 
 
