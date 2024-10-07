@@ -27,9 +27,6 @@ Welcome to my GitHub! 👩‍💻 I am a passionate full-stack web developer wit
 
 ![CodingGIF](https://github.com/MastooraTurkmen/MastooraTurkmen/assets/132576850/ddec8b62-1039-42d3-a361-46dcc1338b07)
 
-## 😁 Meme
-
-<img alt="Random Memes" height="250px" src="https://web.ohidur.com/memes/random.jpg?category=programming">
 
 ---
 
