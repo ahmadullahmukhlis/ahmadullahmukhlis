@@ -62,19 +62,25 @@ Welcome to my GitHub! 👩‍💻 I am a passionate full-stack web developer wit
 
 ## 📊 Stats
 
-<div>
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmadullahmukhlis&theme=monokai">
- 
+<div style="display: flex; align-items: stretch; width: 100%;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmadullahmukhlis&theme=monokai" alt="GitHub Profile Summary for Ahmad Ullah Mukhlis" style="width: 65%; height: 250px; margin-right: 10px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ahmadullahmukhlis&show_icons=true&theme=codeSTACKr" alt="Ahmad Ullah Mukhlis GitHub Stats" style="width: 33%; height: 250px;" />
 </div>
+
+
+
+
+
 
 
 <br/>
 
 ## 🔥 Streak
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ahmadullahmukhlis&theme=dark" />
-    <img src="https://streak-stats.demolab.com?user=ahmadullahmukhlis&theme=default"/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadullahmukhlis&layout=compact&show_icons=true&theme=codeSTACKr" alt="Top Languages used by Ahmad Ullah Mukhlis" />
-</picture>
+<div style="display: flex; align-items: center;">
+    <img src="https://streak-stats.demolab.com?user=ahmadullahmukhlis&theme=default" alt="GitHub Streak Stats for Ahmad Ullah Mukhlis" style="margin-right: 10px; height: 165px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadullahmukhlis&layout=compact&show_icons=true&theme=codeSTACKr" alt="Top Languages used by Ahmad Ullah Mukhlis" style="height: 165px;" />
+</div>
+
+
 
