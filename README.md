@@ -10,7 +10,12 @@
 <a href="https://www.linkedin.com/in/ahmadullahmukhlis/" target="_blank">
     <img src="https://img.shields.io/badge/-@ahmadullahmukhlis-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge">
 </a>
-
+ <a href="https://github.com/ahmadullahmukhlis" target="_blank">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ahmadullahmukhlis?label=Github&style=flat">
+  </a>
+  <a href="https://github.com/mohammad-yasin-noori" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=ahmadullahmukhlis&label=Views&color=brightgreen&style=flat" alt="ahmadullahmukhlis" />
+  </a>
 </div>
 
 
@@ -58,16 +63,17 @@ Welcome to my GitHub! 👩‍💻 I am a passionate full-stack web developer wit
 ## 📊 Stats
 
 <div>
-  <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=MastooraTurkmen&show_icons=true&theme=codeSTACKr&hide=contribs" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MastooraTurkmen&layout=compact&show_icons=true&theme=codeSTACKr" />
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmadullahmukhlis&theme=monokai">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadullahmukhlis&layout=compact&show_icons=true&theme=codeSTACKr" alt="Top Languages used by Ahmad Ullah Mukhlis" />
 </div>
+
 
 <br/>
 
 ## 🔥 Streak
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=mastooraturkmen&theme=dark" />
-    <img src="https://streak-stats.demolab.com?user=MastooraTurkmen&theme=default"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ahmadullahmukhlis&theme=dark" />
+    <img src="https://streak-stats.demolab.com?user=ahmadullahmukhlis&theme=default"/>
 </picture>
 
