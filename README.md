@@ -20,7 +20,7 @@
 
 Welcome to my GitHub! 👩‍💻 I am a passionate full-stack web developer with expertise in JavaScript,Jquery. CSS, HTML, Reactjs, Nodejs, Nextjs, Taiwand CSS, and Laravel,php,Mysql,SQL Server , MongoDB. Coding has become an integral part of my everyday life, and I thrive on the joy it brings me. 🤠 With a deep love for problem-solving and a constant desire to learn and improve, I am committed to honing my skills and exploring new possibilities in web development. Join me on this exciting journey as I embark on new projects and share my code with the community. Let's code together and make an impact in the digital world! You can reach me here [LinkedIn](https://www.linkedin.com/in/ahmadullahmukhlis/).
 
-![CatComputerGIF](https://github.com/ahmadullahmukhlis/MastooraTurkmen/assets/132576850/4f51607c-7b3b-445a-bd5e-320f11a81eed) ![CodingGIF]
+![CodingGIF](https://github.com/MastooraTurkmen/MastooraTurkmen/assets/132576850/ddec8b62-1039-42d3-a361-46dcc1338b07)
 
 ## 😁 Meme
 
@@ -35,15 +35,16 @@ Welcome to my GitHub! 👩‍💻 I am a passionate full-stack web developer wit
 <img align="left" alt="CSS3" width="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript"  width="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React"  width="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="35px" style="background: white;" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/github/github-original-wordmark.svg" />
 <img align="left" alt="Git" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Nodejs"  width="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Laravel" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/laravel/laravel-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Figma"  width="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Svelte"  width="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Nextjs"  width="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Tailwind"  width="45px"  src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/mongodb/mongodb-original-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="Tailwind"  width="40px"  src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Tailwind"  width="50px"  src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/express/express-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="Photoshop" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/photoshop/photoshop-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Tailwind"  width="35px"  src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/mongodb/mongodb-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="Tailwind"  width="35px"  src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Bootstrap" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/bootstrap/bootstrap-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="SQL" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/mysql/mysql-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="WordPress" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/wordpress/php.svg" style="padding-right:10px;" />
 
 <br/>
 <br/>
