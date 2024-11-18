@@ -13,7 +13,7 @@
  <a href="https://github.com/ahmadullahmukhlis" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/ahmadullahmukhlis?label=Github&style=flat">
   </a>
-  <a href="https://github.com/mohammad-yasin-noori" target="_blank">
+  <a href="https://github.com/ahmadullahmukhlis" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=ahmadullahmukhlis&label=Views&color=brightgreen&style=flat" alt="ahmadullahmukhlis" />
   </a>
 </div>
