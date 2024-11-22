@@ -72,7 +72,7 @@ Welcome to my GitHub! 👩‍💻 I am a passionate full-stack web developer wit
 
 <br/>
 
-## 🔥 Streak
+
 
 <div style="display: flex; align-items: center;">
     <img src="https://streak-stats.demolab.com?user=ahmadullahmukhlis&theme=default" alt="GitHub Streak Stats for Ahmad Ullah Mukhlis" style="margin-right: 10px; height: 165px;" />
