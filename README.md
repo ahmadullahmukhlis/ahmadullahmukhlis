@@ -1,6 +1,6 @@
 **`Full Stack web Developer`**
 
-<h1 align="center">Hi👋there, I am Ahmadullah Mukhlis</h1>
+<h2 align="center"Asalamualikum (Hi)👋there, I am Khalid Danishyar</h2>
 
 <div align="left" style="display: flex; align-items: center; gap: 15px;">
   <a href="https://user-badge.committers.top/afghanistan_private/ahmadullahmukhlis">
