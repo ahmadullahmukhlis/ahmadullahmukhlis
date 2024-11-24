@@ -67,11 +67,11 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ahmadulla
 ## 📊 **Stats**
 
 <div align="center" style="margin-top: 20px;  margin-bottom: 60px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmadullahmukhlis&theme=monokai" alt="GitHub Profile Summary" style="width: 48%; height: 160px;" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmadullahmukhlis&theme=monokai" alt="GitHub Profile Summary" style="width: 48%; height: 220px; margin-bottom: 20px;" />
     <img src="https://github-readme-stats.vercel.app/api?username=ahmadullahmukhlis&show_icons=true&theme=codeSTACKr" alt="GitHub Stats" style="width: 48%; height: 160px;" />
 </div>
 
-<div align="center" style="margin-top: 60px;">
+<div align="center" style="margin-top: 160px;">
     <img src="https://streak-stats.demolab.com?user=ahmadullahmukhlis&theme=default" alt="GitHub Streak Stats" style="width: 48%; height: 200px; margin-bottom: 20px;" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadullahmukhlis&layout=compact&show_icons=true&theme=codeSTACKr" alt="Top Languages" style="width: 48%; height: 200px;" />
 </div>
