@@ -1,6 +1,6 @@
 # **Full Stack Web Developer**
 
-<h1 align="center">Asalamualaikum (Hi) 👋, I am Khalid Danishyar</h1>
+<h1 align="center">Asalamualaikum (Hi) 👋, I am AhmadUllah Mukhlis </h1>
 
 <div align="left" style="display: flex; align-items: center; gap: 15px;">
   <a href="https://user-badge.committers.top/afghanistan_private/ahmadullahmukhlis">
@@ -24,7 +24,7 @@
 
 I am a passionate **Full-Stack Web Developer** with expertise in:
 
-- **Frontend:** JavaScript, jQuery, HTML, CSS, React.js, Next.js, Tailwind CSS, Bootstrap.
+- **Frontend:** JavaScript, jQuery, HTML, CSS, React.js, Next.js,Vue.js, Tailwind CSS, Bootstrap.
 - **Backend:** Node.js, PHP, Laravel.
 - **Databases:** MySQL, SQL Server, MongoDB.
 - **Tools:** Git, Figma, Photoshop, WordPress.
