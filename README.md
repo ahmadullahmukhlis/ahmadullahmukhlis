@@ -25,7 +25,7 @@
 I am a passionate **Full-Stack Web Developer** with expertise in:
 
 - **Frontend:** JavaScript, jQuery, HTML, CSS, React.js, Next.js,Vue.js, Tailwind CSS, Bootstrap.
-- **Backend:** Node.js, PHP, Laravel.
+- **Backend:** Node.js, PHP, Laravel..Net
 - **Databases:** MySQL, SQL Server, MongoDB.
 - **Tools:** Git, Figma, Photoshop, WordPress.
 
