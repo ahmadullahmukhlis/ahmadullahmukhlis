@@ -35,26 +35,29 @@ Let's collaborate and make an impact in the digital world! 🌐
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ahmadullahmukhlis/).
 
 ---
-## 🏢 Companies I’ve Worked With
+## 🏢 Recent Companies I’ve Worked With
 
-<div align="center" style="display: flex; gap: 60px; align-items: center; justify-content: center; flex-wrap: wrap; margin-top: 20px;">
+<div align="center">
 
-  <div align="center">
-    <img src="./logos/baheer.png" alt="Baheer Group Logo" width="130px" />
-    <p><strong>Baheer Group of Company</strong></p>
-  </div>
-
-  <div align="center">
-    <img src="./logos/da_afg_bank.png" alt="Da Afghanistan Bank Logo" width="130px" />
-    <p><strong>Da Afghanistan Bank</strong></p>
-  </div>
-
-  <div align="center">
-    <img src="./logos/aps.png" alt="APS Logo" width="130px" />
-    <p><strong>APS – Afghanistan Payment System</strong></p>
-  </div>
+<table>
+  <tr>
+    <td align="center" width="250">
+      <img src="./logos/baheer.png" alt="Baheer Group Logo" width="120"><br/>
+      <strong>Baheer Group of Company</strong>
+    </td>
+    <td align="center" width="250">
+      <img src="./logos/da_afg_bank.png" alt="Da Afghanistan Bank Logo" width="120"><br/>
+      <strong>Da Afghanistan Bank</strong>
+    </td>
+    <td align="center" width="250">
+      <img src="./logos/aps.png" alt="APS Logo" width="120"><br/>
+      <strong>APS – Afghanistan Payment System</strong>
+    </td>
+  </tr>
+</table>
 
 </div>
+
 
 ---
 
