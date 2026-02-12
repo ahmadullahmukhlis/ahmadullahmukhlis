@@ -40,17 +40,17 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ahmadulla
 <div align="center" style="display: flex; gap: 60px; align-items: center; justify-content: center; flex-wrap: wrap; margin-top: 20px;">
 
   <div align="center">
-    <img src="./assets/logos/baheer.png" alt="Baheer Group Logo" width="130px" />
+    <img src="./logos/baheer.png" alt="Baheer Group Logo" width="130px" />
     <p><strong>Baheer Group of Company</strong></p>
   </div>
 
   <div align="center">
-    <img src="./assets/logos/dab.png" alt="Da Afghanistan Bank Logo" width="130px" />
+    <img src="./logos/da_afg_bank.png" alt="Da Afghanistan Bank Logo" width="130px" />
     <p><strong>Da Afghanistan Bank</strong></p>
   </div>
 
   <div align="center">
-    <img src="./assets/logos/aps.png" alt="APS Logo" width="130px" />
+    <img src="./logos/aps.png" alt="APS Logo" width="130px" />
     <p><strong>APS – Afghanistan Payment System</strong></p>
   </div>
 
