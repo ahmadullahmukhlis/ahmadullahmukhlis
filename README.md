@@ -35,6 +35,28 @@ Let's collaborate and make an impact in the digital world! 🌐
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ahmadullahmukhlis/).
 
 ---
+## 🏢 Companies I’ve Worked With
+
+<div align="center" style="display: flex; gap: 60px; align-items: center; justify-content: center; flex-wrap: wrap; margin-top: 20px;">
+
+  <div align="center">
+    <img src="./assets/logos/baheer.png" alt="Baheer Group Logo" width="130px" />
+    <p><strong>Baheer Group of Company</strong></p>
+  </div>
+
+  <div align="center">
+    <img src="./assets/logos/dab.png" alt="Da Afghanistan Bank Logo" width="130px" />
+    <p><strong>Da Afghanistan Bank</strong></p>
+  </div>
+
+  <div align="center">
+    <img src="./assets/logos/aps.png" alt="APS Logo" width="130px" />
+    <p><strong>APS – Afghanistan Payment System</strong></p>
+  </div>
+
+</div>
+
+---
 
 ### 🎥 A Glimpse of My Coding Journey
 ![Coding GIF](https://github.com/MastooraTurkmen/MastooraTurkmen/assets/132576850/ddec8b62-1039-42d3-a361-46dcc1338b07)
