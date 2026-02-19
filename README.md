@@ -218,13 +218,4 @@
   </p>
 </div>
 
-<!-- Simple CSS -->
-<style>
-  img { transition: all 0.2s ease; border-radius: 4px; }
-  img:hover { transform: scale(1.05); opacity: 0.9; }
-  table { margin: 0 auto; border-collapse: collapse; }
-  h4 { margin: 15px 0 8px; color: #2F81F7; font-size: 18px; }
-  td { padding: 8px; }
-  p { margin: 8px 0; }
-  a { text-decoration: none; }
-</style>
+
