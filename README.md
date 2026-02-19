@@ -121,15 +121,11 @@
 <div align="center">
   <h4>📊 GitHub Analytics</h4>
   
-  <!-- Stats Row 1 - Fixed working links -->
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=ahmadullahmukhlis&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117" width="48%" />
   
-  </p>
   
   <!-- Stats Row 2 - Fixed working links -->
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadullahmukhlis&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&langs_count=8" width="40%" />
+    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadullahmukhlis&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&langs_count=8" width="40%" /> -->
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmadullahmukhlis&theme=tokyonight&utcOffset=8" width="40%" />
   </p>
 
