@@ -27,12 +27,12 @@
 <!-- Compact About Section -->
 <div align="center">
   <br>
-  <table>
+  <table align="center" style="border-collapse: collapse; border: none;">
     <tr>
-      <td width="200">
+      <td width="200" style="border: none; padding: 10px;">
         <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" style="border-radius: 8px;">
       </td>
-      <td align="left" width="500">
+      <td align="left" width="500" style="border: none; padding: 10px;">
         <strong>🚀 Full-Stack Developer</strong><br>
         • 🔭 Working on enterprise web applications<br>
         • 🌱 Learning system architecture & cloud technologies<br>
@@ -55,11 +55,11 @@
 <!-- Companies - Compact Grid -->
 <div align="center">
   <h4>🏢 Work Experience</h4>
-  <table>
+  <table align="center" style="border-collapse: collapse; border: none;">
     <tr>
-      <td align="center" width="160"><img src="./logos/baheer.png" width="70"><br><small><b>Baheer Group</b><br>Full Stack Dev</small></td>
-      <td align="center" width="160"><img src="./logos/da_afg_bank.png" width="70"><br><small><b>Da Afghanistan Bank</b><br>Senior Developer</small></td>
-      <td align="center" width="160"><img src="./logos/aps.png" width="70"><br><small><b>APS Afghanistan</b><br>Lead Developer</small></td>
+      <td align="center" width="160" style="border: none; padding: 10px;"><img src="./logos/baheer.png" width="70"><br><small><b>Baheer Group</b><br>Full Stack Dev</small></td>
+      <td align="center" width="160" style="border: none; padding: 10px;"><img src="./logos/da_afg_bank.png" width="70"><br><small><b>Da Afghanistan Bank</b><br>Senior Developer</small></td>
+      <td align="center" width="160" style="border: none; padding: 10px;"><img src="./logos/aps.png" width="70"><br><small><b>APS Afghanistan</b><br>Lead Developer</small></td>
     </tr>
   </table>
 </div>
@@ -72,46 +72,46 @@
   
   <!-- Frontend -->
   <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="30" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="30" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="30" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="30" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" height="35" style="margin: 5px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" height="35" style="margin: 5px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="35" height="35" style="margin: 5px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="35" height="35" style="margin: 5px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="35" height="35" style="margin: 5px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" height="35" style="margin: 5px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" height="35" style="margin: 5px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="35" height="35" style="margin: 5px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="35" height="35" style="margin: 5px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="35" height="35" style="margin: 5px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="35" height="35" style="margin: 5px;" />
   </p>
 
   <!-- Backend -->
   <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="30" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="30" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35" height="35" style="margin: 5px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="35" height="35" style="margin: 5px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="35" height="35" style="margin: 5px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="35" height="35" style="margin: 5px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35" height="35" style="margin: 5px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="35" height="35" style="margin: 5px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="35" height="35" style="margin: 5px;" />
   </p>
 
   <!-- Databases -->
   <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="30" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" height="35" style="margin: 5px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="35" height="35" style="margin: 5px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35" height="35" style="margin: 5px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35" height="35" style="margin: 5px;" />
   </p>
 
   <!-- Tools -->
   <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="30" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" height="35" style="margin: 5px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35" height="35" style="margin: 5px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35" height="35" style="margin: 5px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="35" height="35" style="margin: 5px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="35" height="35" style="margin: 5px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="35" height="35" style="margin: 5px;" />
   </p>
 </div>
 
@@ -121,7 +121,11 @@
 <div align="center">
   <h4>📊 GitHub Analytics</h4>
   
-  
+  <!-- Stats Row 1 -->
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=ahmadullahmukhlis&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117" width="48%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadullahmukhlis&hide_border=true&theme=tokyonight&background=0D1117" width="48%" />
+  </p>
   
   <!-- Stats Row 2 - Fixed working links -->
   <p>
@@ -133,8 +137,6 @@
   <p>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmadullahmukhlis&theme=tokyonight" width="80%" />
   </p>
-
-
 </div>
 
 <br>
@@ -174,9 +176,9 @@
 <!-- Recent Activity - Compact -->
 <div align="center">
   <h4>🔄 Recent GitHub Activity</h4>
-  <table>
+  <table align="center" style="border-collapse: collapse; border: none; width: 80%;">
     <tr>
-      <td>
+      <td style="border: 1px solid #30363d; padding: 15px; border-radius: 8px;">
         <!--RECENT_ACTIVITY:start-->
         1. 🎉 Created new repository<br>
         2. 🔱 Pushed commits to main<br>
@@ -217,5 +219,3 @@
     </a>
   </p>
 </div>
-
-
