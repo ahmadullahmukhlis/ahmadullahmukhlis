@@ -13,7 +13,7 @@
 <!-- Compact Badges Row - Fixed with proper spacing -->
 <div align="center">
   <a href="https://user-badge.committers.top/afghanistan_private/ahmadullahmukhlis">
-    <img src="https://user-badge.committers.top/afghanistan_private/ahmadullahmukhlis.svg" alt="Committers" width="140">
+    <img src="https://user-badge.committers.top/afghanistan_private/ahmadullahmukhlis.svg" alt="Committers" width="300">
   </a>
   &nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=ahmadullahmukhlis&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views">
