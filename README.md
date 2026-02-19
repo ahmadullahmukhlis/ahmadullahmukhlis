@@ -19,7 +19,7 @@
   <a href="https://www.linkedin.com/in/ahmadullahmukhlis/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/ahmadullahmukhlis">
+  <a href="https://github.com/ahmadullahmukhlis?tab=followers">
     <img src="https://img.shields.io/github/followers/ahmadullahmukhlis?label=Followers&style=flat-square&color=2F81F7" alt="Followers">
   </a>
 </div>
@@ -121,15 +121,15 @@
 <div align="center">
   <h4>📊 GitHub Analytics</h4>
   
-  <!-- Stats Row 1 -->
+  <!-- Stats Row 1 - Fixed alignment -->
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=ahmadullahmukhlis&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117" width="48%" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadullahmukhlis&hide_border=true&theme=tokyonight&background=0D1117" width="48%" />
   </p>
   
-  <!-- Stats Row 2 - Fixed working links -->
+  <!-- Stats Row 2 - Fixed with working cards -->
   <p>
-    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadullahmukhlis&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&langs_count=8" width="40%" /> -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadullahmukhlis&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&langs_count=8" width="40%" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmadullahmukhlis&theme=tokyonight&utcOffset=8" width="40%" />
   </p>
 
@@ -178,7 +178,7 @@
   <h4>🔄 Recent GitHub Activity</h4>
   <table align="center" style="border-collapse: collapse; border: none; width: 80%;">
     <tr>
-      <td style="border: 1px solid #30363d; padding: 15px; border-radius: 8px;">
+      <td style="border: 1px solid #30363d; padding: 15px; border-radius: 8px; background-color: #0D1117;">
         <!--RECENT_ACTIVITY:start-->
         1. 🎉 Created new repository<br>
         2. 🔱 Pushed commits to main<br>
