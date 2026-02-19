@@ -3,28 +3,31 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=800&color=2F81F7&center=true&vCenter=true&width=380&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
-<!-- Compact Title -->
+<!-- Compact Title with proper spacing -->
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
   Asalamualaikum, I'm AhmadUllah Mukhlis
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 </h3>
 
-<!-- Compact Badges Row -->
+<!-- Compact Badges Row - Fixed with proper spacing -->
 <div align="center">
   <a href="https://user-badge.committers.top/afghanistan_private/ahmadullahmukhlis">
     <img src="https://user-badge.committers.top/afghanistan_private/ahmadullahmukhlis.svg" alt="Committers" width="140">
   </a>
+  &nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=ahmadullahmukhlis&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views">
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ahmadullahmukhlis/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/ahmadullahmukhlis?tab=followers">
     <img src="https://img.shields.io/github/followers/ahmadullahmukhlis?label=Followers&style=flat-square&color=2F81F7" alt="Followers">
   </a>
 </div>
 
-<!-- Compact About Section -->
+<!-- Compact About Section - Fixed text spacing -->
 <div align="center">
   <br>
   <table align="center" style="border-collapse: collapse; border: none;">
@@ -33,7 +36,7 @@
         <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" style="border-radius: 8px;">
       </td>
       <td align="left" width="500" style="border: none; padding: 10px;">
-        <strong>🚀 Full-Stack Developer</strong><br>
+        <strong>🚀 Full-Stack Developer</strong><br><br>
         • 🔭 Working on enterprise web applications<br>
         • 🌱 Learning system architecture & cloud technologies<br>
         • 💬 Ask me about full-stack development<br>
@@ -42,10 +45,12 @@
     </tr>
   </table>
   
-  <!-- Compact Contact -->
+  <!-- Compact Contact - Fixed with proper spacing -->
   <p>
     <a href="mailto:ahmadullahmukhlis@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+    &nbsp;&nbsp;
     <a href="#"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white"></a>
+    &nbsp;&nbsp;
     <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"></a>
   </p>
 </div>
