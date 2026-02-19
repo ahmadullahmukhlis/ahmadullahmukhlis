@@ -3,161 +3,139 @@
 <h1 align="center">Asalamualaikum (Hi) 👋, I'm AhmadUllah Mukhlis</h1>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ahmadullahmukhlis/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://user-badge.committers.top/afghanistan_private/ahmadullahmukhlis">
+    <img src="https://user-badge.committers.top/afghanistan_private/ahmadullahmukhlis.svg" alt="Committers Badge" style="height: 25px;">
   </a>
-  <a href="mailto:ahmadullahmukhlis@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  <img src="https://komarev.com/ghpvc/?username=ahmadullahmukhlis&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" style="height: 25px;">
+  <a href="https://www.linkedin.com/in/ahmadullahmukhlis/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 25px;">
   </a>
   <a href="https://github.com/ahmadullahmukhlis" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/github/followers/ahmadullahmukhlis?label=Followers&style=flat-square" alt="GitHub Followers" style="height: 25px;">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=ahmadullahmukhlis&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views">
 </div>
 
 ---
 
-## 👨‍💻 **About Me**
+### Welcome to my GitHub! 👩‍💻
 
-I am a passionate **Full-Stack Web Developer** with extensive experience in building scalable web applications. Coding isn't just my profession—it's my passion! I thrive on solving complex problems and continuously learning new technologies to stay at the forefront of web development.
+I am a passionate **Full-Stack Web Developer** with expertise in:
 
-- 🔭 I'm currently working on **enterprise-level web applications**
-- 🌱 I'm constantly learning **new technologies and best practices**
-- 👯 I'm looking to collaborate on **innovative web projects**
-- 💬 Ask me about **Full Stack Development, System Architecture, or anything tech-related**
-- ⚡ Fun fact: **I enjoy turning complex problems into simple, elegant solutions**
+- **Frontend:** JavaScript, jQuery, HTML, CSS, React.js, Next.js, Vue.js, Tailwind CSS, Bootstrap, Angular, Flutter.
+- **Backend:** Node.js, PHP, Laravel, .Net, SpringBoot Kotlin, SpringBoot Java
+- **Databases:** MySQL, SQL Server, MongoDB, PostgreSQL
+- **Tools:** Git, Figma, Photoshop, WordPress.
+
+Coding has become an integral part of my everyday life, and I thrive on the joy it brings me. 🤠 I have a deep love for problem-solving and a constant desire to learn and improve. I am committed to honing my skills and exploring new possibilities in web development.
+
+Let's collaborate and make an impact in the digital world! 🌐  
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ahmadullahmukhlis/).
 
 ---
-
-## 🏢 **Professional Experience**
+## 🏢 Recent Companies I've Worked With
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="250">
-        <img src="https://via.placeholder.com/120x120.png?text=Baheer+Group" alt="Baheer Group" width="120" height="120" style="border-radius: 50%;"><br/>
-        <strong>Baheer Group of Company</strong><br/>
-        <span style="color: #666;">Full Stack Developer</span>
-      </td>
-      <td align="center" width="250">
-        <img src="https://via.placeholder.com/120x120.png?text=DAB" alt="Da Afghanistan Bank" width="120" height="120" style="border-radius: 50%;"><br/>
-        <strong>Da Afghanistan Bank</strong><br/>
-        <span style="color: #666;">Senior Developer</span>
-      </td>
-      <td align="center" width="250">
-        <img src="https://via.placeholder.com/120x120.png?text=APS" alt="APS Logo" width="120" height="120" style="border-radius: 50%;"><br/>
-        <strong>APS – Afghanistan Payment System</strong><br/>
-        <span style="color: #666;">Lead Developer</span>
-      </td>
-    </tr>
-  </table>
+
+<table>
+  <tr>
+    <td align="center" width="250">
+      <img src="./logos/baheer.png" alt="Baheer Group Logo" width="120"><br/>
+      <strong>Baheer Group of Company</strong>
+    </td>
+    <td align="center" width="250">
+      <img src="./logos/da_afg_bank.png" alt="Da Afghanistan Bank Logo" width="120"><br/>
+      <strong>Da Afghanistan Bank</strong>
+    </td>
+    <td align="center" width="250">
+      <img src="./logos/aps.png" alt="APS Logo" width="120"><br/>
+      <strong>APS – Afghanistan Payment System</strong>
+    </td>
+  </tr>
+</table>
+
 </div>
+
 
 ---
 
-## 🛠️ **Technical Skills**
+### 🎥 A Glimpse of My Coding Journey
+![Coding GIF](https://github.com/MastooraTurkmen/MastooraTurkmen/assets/132576850/ddec8b62-1039-42d3-a361-46dcc1338b07)
 
-### 🎨 Frontend Development
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-</p>
+---
 
-### ⚙️ Backend Development
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-</p>
+### 🎨 Frontend
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="35px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="35px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="35px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="35px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="35px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="35px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="35px" />
+</div>
+
+### ⚙️ Backend
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="35px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="35px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="35px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="35px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="35px" />
+</div>
 
 ### 🗄️ Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-</p>
-
-### 🛠️ Tools & Technologies
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-</p>
-
----
-
-## 📊 **GitHub Analytics**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmadullahmukhlis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadullahmukhlis&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="35px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="35px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="35px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35px" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadullahmukhlis&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmadullahmukhlis&theme=tokyonight" alt="Profile Summary" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmadullahmukhlis&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+### 🛠️ Tools
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="35px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="35px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="35px" />
 </div>
 
 ---
 
-## 🎯 **What I Do**
-
-- 💻 Build **responsive and scalable web applications**
-- 🔧 Design **robust backend systems and APIs**
-- 📊 Optimize **database performance and queries**
-- 🎨 Create **intuitive user interfaces**
-- 🚀 Implement **best practices and design patterns**
-- 📚 Continuously **learn and share knowledge**
-
----
-
-## 📫 **Let's Connect**
-
-I'm always interested in collaborating on exciting projects or discussing new opportunities. Feel free to reach out!
+## 📊 **Fixed GitHub Stats**
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ahmadullahmukhlis/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:ahmadullahmukhlis@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://github.com/ahmadullahmukhlis" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
+  <!-- Fixed Stats Cards - These will work -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmadullahmukhlis&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadullahmukhlis&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+</div>
+
+<div align="center">
+  <!-- Fixed Language Stats -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadullahmukhlis&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmadullahmukhlis&theme=radical" alt="Profile Summary" width="48%" />
+</div>
+
+<div align="center">
+  <!-- Fixed Trophy Display -->
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmadullahmukhlis&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" width="100%" />
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
+## 📈 **Weekly Development Breakdown**
 
-<div align="center">
-  <i>⭐️ From <a href="https://github.com/ahmadullahmukhlis">AhmadUllah Mukhlis</a></i>
-</div>
+<!--START_SECTION:waka-->
+<!-- This section will auto-update with your coding stats if you set up WakaTime -->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    100 commits    ████████░░░░░░░░░░░░░░░░░   35% 
+🌆 Daytime    120 commits    ██████████░░░░░░░░░░░░░░░   42% 
+🌃 Evening    45 commits     ████░░░░░░░░░░░░░░░░░░░░░   16% 
+🌙 Night      20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7%
