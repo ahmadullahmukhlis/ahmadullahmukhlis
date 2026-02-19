@@ -182,7 +182,7 @@
   <!-- GitHub Stats Cards with Glow Effect -->
   <p>
 
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadullahmukhlis&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" style="box-shadow: 0 0 20px #2F81F7; border-radius: 10px; margin: 5px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadullahmukhlis&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" style="box-shadow: 0 0 20px #2F81F7; border-radius: 10px; margin: 5px;" />
   </p>
   
   <!-- Language Stats with Animation -->
