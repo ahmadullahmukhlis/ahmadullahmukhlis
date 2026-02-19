@@ -197,20 +197,12 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmadullahmukhlis&theme=tokyonight&utcOffset=8" alt="Productive Time" width="32%" style="margin: 5px;" />
   </p>
   
-  <!-- GitHub Trophies -->
-  <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=ahmadullahmukhlis&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" width="100%" />
-  </p>
-  
-  <!-- Contribution Graph -->
-  <p>
-    <img src="https://activity-graph.herokuapp.com/graph?username=ahmadullahmukhlis&theme=tokyonight&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%" />
-  </p>
+
 </div>
 
 <br>
 
-<!-- Animated Contribution Snake 
+<!-- Animated Contribution Snake  -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ahmadullahmukhlis/ahmadullahmukhlis/blob/output/github-contribution-grid-snake-dark.svg" />
@@ -218,7 +210,7 @@
     <img alt="github-snake" src="https://github.com/ahmadullahmukhlis/ahmadullahmukhlis/blob/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
- -->
+
 <br>
 
 <!-- Animated Coding Journey -->
