@@ -134,10 +134,7 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmadullahmukhlis&theme=tokyonight" width="80%" />
   </p>
 
-  <!-- GitHub Trophies -->
-  <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=ahmadullahmukhlis&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" width="95%" />
-  </p>
+
 </div>
 
 <br>
