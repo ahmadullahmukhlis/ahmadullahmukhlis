@@ -187,7 +187,6 @@
   
   <!-- Language Stats with Animation -->
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadullahmukhlis&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" width="48%" style="box-shadow: 0 0 20px #2F81F7; border-radius: 10px; margin: 5px;" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmadullahmukhlis&theme=tokyonight" alt="Profile Summary" width="48%" style="box-shadow: 0 0 20px #2F81F7; border-radius: 10px; margin: 5px;" />
   </p>
   
@@ -211,7 +210,7 @@
 
 <br>
 
-<!-- Animated Contribution Snake -->
+<!-- Animated Contribution Snake 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ahmadullahmukhlis/ahmadullahmukhlis/blob/output/github-contribution-grid-snake-dark.svg" />
@@ -219,7 +218,7 @@
     <img alt="github-snake" src="https://github.com/ahmadullahmukhlis/ahmadullahmukhlis/blob/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
-
+ -->
 <br>
 
 <!-- Animated Coding Journey -->
