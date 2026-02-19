@@ -1,129 +1,135 @@
-# **Full Stack Web Developer**
+# <p align="center">👋 Asalamualaikum (Hi), I'm AhmadUllah Mukhlis</p>
 
-<h1 align="center">Asalamualaikum (Hi) 👋, I am AhmadUllah Mukhlis </h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=2F81F7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+</p>
 
-<div align="left" style="display: flex; align-items: center; gap: 15px;">
+<div align="center">
   <a href="https://user-badge.committers.top/afghanistan_private/ahmadullahmukhlis">
     <img src="https://user-badge.committers.top/afghanistan_private/ahmadullahmukhlis.svg" alt="Committers Badge">
   </a>
   <img src="https://komarev.com/ghpvc/?username=ahmadullahmukhlis&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
   <a href="https://www.linkedin.com/in/ahmadullahmukhlis/" target="_blank">
-    <img src="https://img.shields.io/badge/-@ahmadullahmukhlis-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/ahmadullahmukhlis" target="_blank">
-    <img src="https://img.shields.io/github/followers/ahmadullahmukhlis?label=Followers&style=flat" alt="GitHub Followers">
-  </a>
-  <a href="https://github.com/ahmadullahmukhlis" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=ahmadullahmukhlis&label=Views&color=brightgreen&style=flat" alt="GitHub Views">
+    <img src="https://img.shields.io/github/followers/ahmadullahmukhlis?label=Followers&style=flat&color=blue" alt="GitHub Followers">
   </a>
 </div>
 
 ---
 
-### Welcome to my GitHub! 👩‍💻
+## 💫 About Me
 
-I am a passionate **Full-Stack Web Developer** with expertise in:
+I'm a passionate **Full-Stack Web Developer** who finds joy in turning complex problems into elegant solutions. Coding isn't just my profession—it's my passion and an integral part of my everyday life. 🤠
 
-- **Frontend:** JavaScript, jQuery, HTML, CSS, React.js, Next.js,Vue.js, Tailwind CSS, Bootstrap,Angular,Flutter.
-- **Backend:** Node.js, PHP, Laravel,.Net,SpringBoot kotlin,springBoot Java
-- **Databases:** MySQL, SQL Server, MongoDB,PostgreSQL
-- **Tools:** Git, Figma, Photoshop, WordPress.
-
-Coding has become an integral part of my everyday life, and I thrive on the joy it brings me. 🤠 I have a deep love for problem-solving and a constant desire to learn and improve. I am committed to honing my skills and exploring new possibilities in web development. 
-
-Let's collaborate and make an impact in the digital world! 🌐  
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ahmadullahmukhlis/).
+🌱 I'm constantly learning and exploring new technologies  
+💡 I love solving problems and creating impactful digital solutions  
+🤝 Open to collaborations and exciting projects  
 
 ---
-## 🏢 Recent Companies I’ve Worked With
+
+## 🏢 Professional Experience
 
 <div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="250">
-      <img src="./logos/baheer.png" alt="Baheer Group Logo" width="120"><br/>
-      <strong>Baheer Group of Company</strong>
-    </td>
-    <td align="center" width="250">
-      <img src="./logos/da_afg_bank.png" alt="Da Afghanistan Bank Logo" width="120"><br/>
-      <strong>Da Afghanistan Bank</strong>
-    </td>
-    <td align="center" width="250">
-      <img src="./logos/aps.png" alt="APS Logo" width="120"><br/>
-      <strong>APS – Afghanistan Payment System</strong>
-    </td>
-  </tr>
-</table>
-
+  <table>
+    <tr>
+      <td align="center" width="250">
+        <strong>🏢 Baheer Group of Company</strong>
+      </td>
+      <td align="center" width="250">
+        <strong>🏦 Da Afghanistan Bank</strong>
+      </td>
+      <td align="center" width="250">
+        <strong>💳 APS – Afghanistan Payment System</strong>
+      </td>
+    </tr>
+  </table>
 </div>
-
 
 ---
 
-### 🎥 A Glimpse of My Coding Journey
-![Coding GIF](https://github.com/MastooraTurkmen/MastooraTurkmen/assets/132576850/ddec8b62-1039-42d3-a361-46dcc1338b07)
+## 🛠️ Tech Stack
+
+<details open>
+<summary><b>🎨 Frontend</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+</details>
+
+<details open>
+<summary><b>⚙️ Backend</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
+</details>
+
+<details open>
+<summary><b>🗄️ Databases</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+</details>
+
+<details open>
+<summary><b>🔧 Tools</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+</details>
 
 ---
 
-### 🎨 Frontend
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="35px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="35px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="35px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="35px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="35px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="35px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="35px" />
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmadullahmukhlis&theme=tokyonight" alt="Profile Summary" width="100%"/>
+</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmadullahmukhlis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadullahmukhlis&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
-### ⚙️ Backend
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="35px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="35px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="35px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="35px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="35px" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadullahmukhlis&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%" />
 </div>
-
-### 🗄️ Databases
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="35px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="35px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="35px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35px" />
-</div>
-
-### 🛠️ Tools
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="35px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="35px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="35px" />
-</div>
-
-
 
 ---
 
-## 📊 **Stats**
+## 🎯 Current Focus
 
-<div align="center" style="margin-top: 20px;  margin-bottom: 60px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmadullahmukhlis&theme=monokai" alt="GitHub Profile Summary" style="width: 48%; height: 200px; " />
-    <img src="https://github-readme-stats.vercel.app/api?username=ahmadullahmukhlis&show_icons=true&theme=codeSTACKr" alt="GitHub Stats" style="width: 48%; height: 140px;" />
-</div>
-
-<div align="center" style="margin-top: 160px;">
-    <img src="https://streak-stats.demolab.com?user=ahmadullahmukhlis&theme=default" alt="GitHub Streak Stats" style="width: 48%; height: 180px; margin-bottom: 20px;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadullahmukhlis&layout=compact&show_icons=true&theme=codeSTACKr" alt="Top Languages" style="width: 48%; height: 180px;" />
-</div>
-
-
-
-
+```javascript
+const ahmadullah = {
+  currentlyLearning: ["Advanced System Design", "Cloud Architecture", "DevOps"],
+  lookingToCollaborate: ["Open Source Projects", "Web Applications"],
+  funFact: "Coding turns coffee into code ☕ → 💻"
+};
