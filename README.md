@@ -134,7 +134,7 @@
   
   <!-- Stats Row 2 - Fixed with working cards -->
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadullahmukhlis&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&langs_count=8" width="40%" />
+    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadullahmukhlis&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&langs_count=8" width="40%" /> -->
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmadullahmukhlis&theme=tokyonight&utcOffset=8" width="40%" />
   </p>
 
