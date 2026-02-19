@@ -128,8 +128,8 @@
   
   <!-- Stats Row 1 - Fixed alignment -->
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=ahmadullahmukhlis&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117" width="48%" />
-    <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadullahmukhlis&hide_border=true&theme=tokyonight&background=0D1117" width="48%" /> -->
+    <!-- <img src="https://github-readme-stats.vercel.app/api?username=ahmadullahmukhlis&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117" width="48%" /> -->
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadullahmukhlis&hide_border=true&theme=tokyonight&background=0D1117" width="48%" />
   </p>
   
   <!-- Stats Row 2 - Fixed with working cards -->
