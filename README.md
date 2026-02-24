@@ -47,7 +47,7 @@
   
   <!-- Compact Contact - Fixed with proper spacing -->
   <p>
-    <a href="mailto:ahmadullahmukhlis@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+    <a href="mailto:ahmadullahmukhlis2025@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
     &nbsp;&nbsp;
     <a href="#"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white"></a>
     &nbsp;&nbsp;
