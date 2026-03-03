@@ -148,7 +148,7 @@
 
 <!-- Activity Graph - FIXED -->
 <div align="center">
-  <h4>⚡ Contribution Graph</h4>
+ 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadullahmukhlis&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&custom_title=My%20Contribution%20Graph&point=2F81F7&line=2F81F7" width="95%" />
 </div>
 
