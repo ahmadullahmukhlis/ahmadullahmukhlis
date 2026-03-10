@@ -122,20 +122,20 @@
 
 <br>
 
-<!-- GitHub Analytics - FIXED VERSION -->
+<!-- GitHub Analytics - FIXED VERSION with inline charts -->
 <div align="center">
   <h4>📊 GitHub Analytics</h4>
   
-  <!-- Stats Row 1 - Fixed alignment -->
+  <!-- Stats Row 1 - Two cards inline -->
   <p>
-    <!-- <img src="https://github-readme-stats.vercel.app/api?username=ahmadullahmukhlis&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117" width="48%" /> -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadullahmukhlis&hide_border=true&theme=tokyonight&background=0D1117" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ahmadullahmukhlis&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117" width="45%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadullahmukhlis&hide_border=true&theme=tokyonight&background=0D1117" width="45%" />
   </p>
   
-  <!-- Stats Row 2 - Fixed with working cards -->
+  <!-- Stats Row 2 - Two cards inline -->
   <p>
-    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadullahmukhlis&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&langs_count=8" width="40%" /> -->
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmadullahmukhlis&theme=tokyonight&utcOffset=8" width="40%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadullahmukhlis&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&langs_count=8" width="45%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmadullahmukhlis&theme=tokyonight&utcOffset=8" width="45%" />
   </p>
 
   <!-- Profile Summary Card -->
@@ -148,7 +148,6 @@
 
 <!-- Activity Graph - FIXED -->
 <div align="center">
- 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadullahmukhlis&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&custom_title=My%20Contribution%20Graph&point=2F81F7&line=2F81F7" width="95%" />
 </div>
 
