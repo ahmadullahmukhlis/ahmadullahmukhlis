@@ -110,7 +110,7 @@
 
 <br>
 
-<!-- DAILY GROWTH & REPOSITORY STAR LOGS (NEW ELEMENT ADDED HERE) -->
+<!-- DAILY GROWTH & REPOSITORY STAR LOGS -->
 <h3 align="center">📈 Live Growth & Star Telemetry</h3>
 <div align="center">
   <p>
@@ -121,7 +121,7 @@
   </p>
   <p>
     <!-- Historical Star History Progress Chart for your tracking goals -->
-    <a href="star-history.com">
+    <a href="star-history.com" target="_blank">
       <img src="star-history.com" width="95%" />
     </a>
   </p>
