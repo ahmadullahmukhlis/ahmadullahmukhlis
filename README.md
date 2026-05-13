@@ -228,29 +228,5 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?u
 
 <br>
 
-<!-- ================================================= -->
-<!--                  CONTRIBUTION SNAKE               -->
-<!-- ================================================= -->
-
-<div align="center">
-
-<img 
-src="https://raw.githubusercontent.com/AhmadUllahMukhlis/AhmadUllahMukhlis/output/github-contribution-grid-snake-dark.svg"
-width="95%"
-/>
-
-</div>
-
-<br>
-
-<!-- ================================================= -->
-<!--                      FOOTER                       -->
-<!-- ================================================= -->
-
-<div align="center">
-
-<img 
-src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"
-/>
 
 </div>
