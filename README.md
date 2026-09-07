@@ -34,7 +34,7 @@ I design and deliver secure web, mobile, enterprise, and financial software—fr
 
 <div align="center">
 
-[![Explore public portfolio](https://img.shields.io/badge/Explore_27_Public_Projects-Portfolio-163A5F?style=for-the-badge&logo=github)](https://ahmadullahmukhlis.github.io/#projects)
+[![Explore public portfolio](https://img.shields.io/badge/Explore_25_Public_Projects-Portfolio-163A5F?style=for-the-badge&logo=github)](https://ahmadullahmukhlis.github.io/#projects)
 
 </div>
 
