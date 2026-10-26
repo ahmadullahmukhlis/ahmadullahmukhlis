@@ -7,7 +7,7 @@
 <div align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1F33,50:163A5F,100:24577A&text=AhmadUllah%20Mukhlis&fontSize=42&fontColor=FFFFFF&fontAlign=50&fontAlignY=38&desc=Senior%20Full-Stack%20Software%20Engineer&descSize=17&descAlign=50&descAlignY=58"
+src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:8B6914,50:D4AF37,100:FFD700&text=AhmadUllah%20Mukhlis&fontSize=42&fontColor=FFFFFF&fontAlign=50&fontAlignY=38&desc=Senior%20Full-Stack%20Developer&descSize=19&descColor=FFFFFF&descAlign=50&descAlignY=58"
 width="100%"
 />
 
