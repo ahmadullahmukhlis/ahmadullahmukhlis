@@ -140,7 +140,7 @@ Lead Full-Stack Engineer
 
 <img src="./logos/kopo_pay.jpeg" width="70"><br><br>
 
-<b>Kop Pay </b><br>
+<b>Kopo Pay </b><br>
 Senior Backend & Payments Engineer
 
 </td>
