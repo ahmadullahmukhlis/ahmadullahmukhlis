@@ -134,7 +134,16 @@ Senior Software Engineer
 Lead Full-Stack Engineer
 
 </td>
+</td>
 
+<td align="center" width="220">
+
+<img src="./logos/kopo_pay.jpeg" width="70"><br><br>
+
+<b>Kop Pay </b><br>
+Senior Backend & Payments Engineer
+
+</td>
 </tr>
 
 </table>
